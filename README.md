@@ -43,6 +43,17 @@ Recall for high-risk loans (label 1) is 0.89, suggesting that the model correctl
 
 ### Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+  * 
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       1.00      1.00      1.00     18759
+           1       0.87      0.89      0.88       625
+
+    accuracy                           0.99     19384
+   macro avg       0.94      0.94      0.94     19384
+weighted avg       0.99      0.99      0.99     19384
+
   
 Overview of Analysis Purpose:
 
