@@ -8,6 +8,7 @@ By examining metrics such as accuracy, precision, and recall, we aim to understa
 
 #### the distribution of loan statuses
 print(df_lending_data["loan_status"].value_counts())
+
 loan_status
 
 0    75036
